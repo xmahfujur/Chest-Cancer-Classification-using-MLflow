@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for cnn app
+Home-page: https://github.com/xmahfujur/Chest-Cancer-Classification-using-MLflow
+Author: xmahfujur
+Author-email: xmahfujur@gmail.com
+Project-URL: Bug Tracker, https://github.com/xmahfujur/Chest-Cancer-Classification-using-MLflow/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: requires-python
+Dynamic: summary
+
+# Chest cancer classification using MLFlow
